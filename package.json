@@ -1,0 +1,15 @@
+{
+  "name": "cypresstestfix",
+  "version": "1.0.0",
+  "description": "Test folder for Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.1.0",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
